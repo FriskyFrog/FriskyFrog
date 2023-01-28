@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 > Nice to meet you here.
 
 My nickname is **BlueFrog**, I come from Beijing, China.
+- 🌱 I'm a **Noob** , currently learning [Python](https://www.python.org) and [Golang](https://go.dev). the first language I learned was Python.
+- 🤔 I'm a middle school student in Grade 9 in China.
 
 ## Working on
 - GUI applications.
@@ -26,7 +28,3 @@ My nickname is **BlueFrog**, I come from Beijing, China.
 ## Status
 [![github stats](https://github-readme-stats.vercel.app/api?username=atommation&show_icons=true)](https://github.com/atommation)
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atommation&layout=compact)](https://github.com/atommation)
-
-## More
-- 🌱 I'm currently learning the [Golang](https://go.dev) and [Python](https://www.python.org/), the first language I learned was Python.
-- 🤔 I'm a middle school student in Grade 9 in China.
