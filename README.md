@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 > Nice to meet you here.
 
 My nickname is **FriskyFrog**, I come from Beijing, China.
-- 🌱 I'm a **Noob** , currently learning [Golang](https://golang.google.cn)and[Python](https://www.python.org). the first language I learned was Python.
+- 🌱 I'm a **Noob** , currently learning [Golang](https://golang.google.cn)and[Python](https://www.python.org).
 - 🤔 I'm a senior high school student in China.
 
 ## Working on
-- CLI & GUIapplications.
+- CLIapplications.
 
 ## Contact me
 - GitHub [@atommation](https://github.com/FriskyFrog)
 - Email [eve4U#qq.com](mailto:eve4you@qq.com)
 
 ## Status
+<--!
 [![github stats](https://github-readme-stats.vercel.app/api?username=FriskyFrog&show_icons=true)](https://github.com/FriskyFrog)
+-->
+
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriskyFrog&layout=compact)](https://github.com/FriskyFrog)
