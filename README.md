@@ -25,7 +25,7 @@ My nickname is **FriskyFrog**, I come from Beijing, China.
 - Email [eve4U#qq.com](mailto:eve4you@qq.com)
 
 ## Status
-<--!
+<!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=FriskyFrog&show_icons=true)](https://github.com/FriskyFrog)
 -->
 
