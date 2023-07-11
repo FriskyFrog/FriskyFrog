@@ -20,7 +20,7 @@ My nickname is **FriskyFrog**, I come from Beijing, China.
 ## Working on
 - CLIapplications.
 
-## Contact me
+## Contact with me
 - GitHub [@atommation](https://github.com/FriskyFrog)
 - Email [eve4U#qq.com](mailto:eve4you@qq.com)
 
